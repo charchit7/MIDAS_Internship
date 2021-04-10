@@ -23,7 +23,8 @@ TRAINED MODELS:
 2. https://drive.google.com/file/d/1-EfsDTiJv3rF2oS8i9ANv9O6POZ9L2q3/view?usp=sharing
 
 TO LOAD THE MODELS FOR TESTING:
-Since, its a fastai wrapper it's helpful to use their method.
-Step1 : learn_inf = load_learner(path/'model_file')
-Step2 : pred,pred_idx,probs = learn_inf.predict(img)
-This gives our predictions.
+
+* Since, its a fastai wrapper it's helpful to use their method.
+* Step1 : learn_inf = load_learner(path/'model_file')
+* Step2 : pred,pred_idx,probs = learn_inf.predict(img)
+* This gives our predictions.
