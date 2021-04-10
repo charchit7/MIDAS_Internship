@@ -32,6 +32,9 @@ TO LOAD THE MODELS FOR TESTING:
 * Since, its a fastai wrapper it's helpful to use their method.
 * Step1 : learn_inf = load_learner(path/'model_file')
 * Step2 : pred,pred_idx,probs = learn_inf.predict(img)
+* for multiple files : test = ImageList.from_folder(path/'test-jpg').add(ImageList.from_folder(path/'test-jpg-additional'))
+* learn = load_learner(path, test=test)
+* preds, _ = learn.get_preds(ds_type=DatasetType.Test)
 * This gives our predictions.
 
 
