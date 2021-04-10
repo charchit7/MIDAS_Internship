@@ -24,8 +24,17 @@ pip install fastai
 
 
 TRAINED MODELS:
-1. https://drive.google.com/file/d/1-NeyT_BRyjRfDHl4wFT-h3RVYY5dJci0/view?usp=sharing
-2. https://drive.google.com/file/d/1-EfsDTiJv3rF2oS8i9ANv9O6POZ9L2q3/view?usp=sharing
+1. for Q1:
+ *  https://drive.google.com/file/d/1-NeyT_BRyjRfDHl4wFT-h3RVYY5dJci0/view?usp=sharing
+ *  https://drive.google.com/file/d/1-EfsDTiJv3rF2oS8i9ANv9O6POZ9L2q3/view?usp=sharing
+
+2. for Q2:
+ * https://drive.google.com/file/d/1B_XDIh3kTVDhjtc2VoNjC1-XxHHMGBtS/view?usp=sharing
+
+3. for Q3:
+ * https://drive.google.com/file/d/1CGfZIfPkqgErM69iVuHIyG-HedmluInZ/view?usp=sharing
+ * https://drive.google.com/file/d/1COaEMEIippP8basx-qV62sGP5JnHdnqB/view?usp=sharing
+
 
 TO LOAD THE MODELS FOR TESTING:
 
