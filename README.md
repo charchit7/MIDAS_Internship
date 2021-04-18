@@ -1,5 +1,5 @@
 # MIDAS_Internship
-CNN Task Work
+CNN Task Work : Please check "MIDAS-Internship.pdf" for further analysis
 
 Added the Colab Jupyter Notebook for the work done. 
 
